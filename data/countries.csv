@@ -1,0 +1,8 @@
+country,bev_registrations_2025,bev_share_2025_pct,bev_growth_vs_2024_pct,dc_charge_points_2023,bev_fleet_share_2024_pct,bev_fleet_est_2024,policy_score,network_fit_score,role
+Poland,43311,7.2,161.5,1625,0.4,82000,3,3,candidate
+Czechia,13806,5.6,26.5,1275,0.5,33000,2,3,candidate
+Sweden,99723,36.5,5.7,4753,7.2,358000,2,2,candidate
+Portugal,52256,23.2,25.1,1724,2.6,155000,1,2,candidate
+Austria,60651,21.3,35.9,3408,3.8,199000,2,3,benchmark (announced next market)
+Netherlands,156139,40.2,18.1,3892,6.1,587000,,,home market
+Germany,545142,19.1,43.2,22921,3.3,1630000,,,existing market
